@@ -1,0 +1,74 @@
+body {
+    font-family: 'Courier New', Garamond, Courier, monospace;
+    background-color: #E0FFFF;
+    margin: 0;
+    text-align: center;
+}
+
+.centerAlign {
+    padding: 10px;
+    color: black;
+    text-align: center;
+}
+
+main {
+    padding: 30px 50px;
+}
+
+.quadrado {
+    background-color: #B0E0E6;
+    border: 1px solid #B0E0E6 ;
+    padding: 20px 50px;
+    margin-top: 15px;
+    border-radius: 3px;
+    text-align: center;
+}
+
+.linhaInput {
+    margin-bottom: 20px;
+}
+
+input {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    outline: 10;
+    width: 150px;
+}
+
+button {
+    border: 0;
+    padding: 10px;
+    outline: 0;
+    background-color: thistle;
+    color: #fff;
+    border-radius: 3px;
+    font-weight: bold;
+    transition: all ease 0.3s;
+}
+
+button:hover {
+    background-color: lavender;
+}
+
+.espacamento {
+    margin-top: 15px;
+}
+
+table {
+    border-collapse: collapse;
+    border: 1px solid thistle;
+    width: 100%;
+}
+
+table th {
+    background-color: thistle;
+}
+
+table td img {
+    width: 20px;
+}
+
+.center {
+    text-align: center;
+}
